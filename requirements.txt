@@ -1,0 +1,3 @@
+discord.py[voice]>=1.3.2
+flake8
+jaconv
